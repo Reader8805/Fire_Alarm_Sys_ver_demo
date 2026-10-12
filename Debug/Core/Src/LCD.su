@@ -1,0 +1,8 @@
+../Core/Src/LCD.c:10:13:LCD_WriteDataBus	16	static
+../Core/Src/LCD.c:17:6:LCD_SendCommand	16	static
+../Core/Src/LCD.c:31:6:LCD_SendData	16	static
+../Core/Src/LCD.c:44:6:LCD_SetCursor	24	static
+../Core/Src/LCD.c:60:6:LCD_Backlight	16	static
+../Core/Src/LCD.c:68:6:LCD_Init	8	static
+../Core/Src/LCD.c:92:6:LCD_ClearBuffer	16	static
+../Core/Src/LCD.c:100:6:LCD_UpdateScreen	24	static

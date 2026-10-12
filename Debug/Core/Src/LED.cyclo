@@ -1,0 +1,2 @@
+../Core/Src/LED.c:34:6:HC595_ShiftOut	3
+../Core/Src/LED.c:60:6:Test_All_LEDs	4
